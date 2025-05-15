@@ -1,5 +1,5 @@
 custom:
-  enable: false        # 选项：true | false
+  enable: true        # 选项：true | false
   # 选择是否修补自定义版本 QQ
 
   QQ_download_link: "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.75_64.apk"
